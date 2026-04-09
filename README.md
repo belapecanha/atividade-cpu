@@ -63,8 +63,9 @@ O ciclo de execute é a etapa em que a instrução armazenada no IR é interpret
 O valor da instrução no IR → a CU decodifica a instrução e ativa os sinais para realizar a operação → busca um operando na memória → faz a conta pela ALU → retorna no AC/MQ o resultado.
 
 ---
-## Imagem da minha CPU
+## Imagem da minha CPU e ALU
 ![CPU](/imagem.png)
+![ALU](/imagem-alu.png)
 
 ## Vídeo
 
